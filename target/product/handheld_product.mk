@@ -28,11 +28,13 @@ PRODUCT_PACKAGES += \
     Camera \
     Contacts \
     DeskClock \
+    Duress \ 
     ExactCalculator \
     Gallery2 \
     LatinIME \
     Music \
     PdfViewerGOS \
+    Sentry \
     preinstalled-packages-platform-handheld-product.xml \
     SettingsIntelligence \
     ThemePicker \
