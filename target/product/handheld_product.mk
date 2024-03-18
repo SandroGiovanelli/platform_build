@@ -28,7 +28,7 @@ PRODUCT_PACKAGES += \
     Camera \
     Contacts \
     DeskClock \
-    Duress \ 
+    Duress \
     ExactCalculator \
     Gallery2 \
     LatinIME \
